@@ -53,6 +53,6 @@ class EmailSender
 
     public function getClients(): array
     {
-        return $this->cleints;
+        return $this->clients;
     }
 }
